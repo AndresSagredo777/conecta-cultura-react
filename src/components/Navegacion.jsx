@@ -1,4 +1,5 @@
 import { Container, Nav, Navbar } from "react-bootstrap";
+
 function Navegacion() {
     return (
     <Navbar expand="md" bg="light" data-bs-theme="light">

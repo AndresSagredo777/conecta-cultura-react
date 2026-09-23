@@ -13,7 +13,7 @@ function App() {
           <div className="col-12 col-md-6 col-lg-4">
             <TarjetaActividad />
           </div>
-        </div>
+        </div>  
       </main>
     </>
   );
