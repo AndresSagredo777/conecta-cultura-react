@@ -11,7 +11,6 @@ function App() {
   return (
   <>
     <Navegacion/>
-  
     <Routes>
       <Route path="/" element={<Inicio />} />
       <Route path="/actividades" element={<Actividades />} />
